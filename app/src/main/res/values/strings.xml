@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoQuiz 3.1</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="next_button">Next</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="cheat_pressed">Ворішка не воруй!</string>
+    <string name="restart">RESTART</string>
+    <string name="show_answer">Показати відповідь</string>
+    <string name="are_you_shure">Ви впевнені?</string>
+    <string name="first_question">Бойко лох?</string>
+    <string name="second_Question">Трава зелена?</string>
+    <string name="third_question">Розробника звати Ігор?</string>
+    <string name="n4th_question">Бондарівка топ?</string>
+    <string name="n5th_question">Мейзу топ?</string>
+    <string name="n6th_question">Гімн України починається зі слів "Ще нам браття українці усміхнеться доля"?</string>
+    <string name="n7th_question">Це запитання шосте?</string>
+    <string name="n8th_question">IPhone XS Max Вартий своїх грошей?</string>
+    <string name="n9th_question">Гуууусь</string>
+    <string name="n10th_question">ОО - топ?</string>
+    <string name="test">"Ваш результат:" + mResult + "правильних відповдей з" + questionBank.length</string>
+
+</resources>
